@@ -4,3 +4,15 @@
 [submodule "step0/java-baseball-precourse"]
 	path = step0/java-baseball-precourse
 	url = https://github.com/tasklet1579/java-baseball-precourse.git
+[submodule "step1/java-lotto-pro"]
+	path = step1/java-lotto-pro
+	url = https://github.com/tasklet1579/java-lotto-pro.git
+[submodule "step2/jwp-qna"]
+	path = step2/jwp-qna
+	url = https://github.com/tasklet1579/jwp-qna.git
+[submodule "step3/atdd-subway-admin"]
+	path = step3/atdd-subway-admin
+	url = https://github.com/tasklet1579/atdd-subway-admin.git
+[submodule "step4/infra-subway-deploy"]
+	path = step4/infra-subway-deploy
+	url = https://github.com/tasklet1579/infra-subway-deploy.git
