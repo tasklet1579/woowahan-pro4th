@@ -1,0 +1,6 @@
+[submodule "step0/java-racingcar-precourse"]
+	path = step0/java-racingcar-precourse
+	url = https://github.com/tasklet1579/java-racingcar-precourse.git
+[submodule "step0/java-baseball-precourse"]
+	path = step0/java-baseball-precourse
+	url = https://github.com/tasklet1579/java-baseball-precourse.git
