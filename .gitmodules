@@ -16,3 +16,9 @@
 [submodule "step4/infra-subway-deploy"]
 	path = step4/infra-subway-deploy
 	url = https://github.com/tasklet1579/infra-subway-deploy.git
+[submodule "step5/atdd-subway-service"]
+	path = step5/atdd-subway-service
+	url = https://github.com/tasklet1579/atdd-subway-service.git
+[submodule "step6/infra-subway-monitoring"]
+	path = step6/infra-subway-monitoring
+	url = https://github.com/tasklet1579/infra-subway-monitoring.git
