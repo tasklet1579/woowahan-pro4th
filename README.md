@@ -46,9 +46,9 @@
 
 ✔️ 6주차 : 서비스 진단하기 : [미션 설명](docs/step6/readme.md)
 
-✔️ 7주차 : 레거시 코드 리팩토링
+✔️ 7주차 : 레거시 코드 리팩토링 : [미션 설명](docs/step7/readme.md), [내용 정리](docs/step7/summary.md)
 
-✔️ 8주차 : 안정적인 서비스 만들기
+✔️ 8주차 : 안정적인 서비스 만들기 : [미션 설명](docs/step8/readme.md), [내용 정리](docs/step8/summary.md)
 
 ​
 

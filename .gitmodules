@@ -22,3 +22,9 @@
 [submodule "step6/infra-subway-monitoring"]
 	path = step6/infra-subway-monitoring
 	url = https://github.com/tasklet1579/infra-subway-monitoring.git
+[submodule "step8/infra-subway-performance"]
+	path = step8/infra-subway-performance
+	url = https://github.com/tasklet1579/infra-subway-performance.git
+[submodule "step7/jwp-refactoring"]
+	path = step7/jwp-refactoring
+	url = https://github.com/tasklet1579/jwp-refactoring.git
